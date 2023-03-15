@@ -1,4 +1,4 @@
-FROM redis:7.0.7-alpine3.17
+FROM redis:7.0.9-alpine3.17
 
 RUN apk add --no-cache shadow
 
